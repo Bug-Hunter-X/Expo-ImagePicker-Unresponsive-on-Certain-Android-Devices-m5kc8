@@ -1,0 +1,1 @@
+This bug occurs when using the Expo ImagePicker library in conjunction with certain Android devices. The problem manifests as an inability to select images from the device's gallery or camera roll. The ImagePicker component remains unresponsive or displays an error message. This is not consistent across all Android devices, and some may work without issues.
